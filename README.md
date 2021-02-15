@@ -1,2 +1,2 @@
 # SongRecommender
-SSAFY 2nd PJT
+Samsung SW Academy 2nd Pjt
